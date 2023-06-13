@@ -5,11 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishadcptn" alt="nishadcptn" /></a> </p>
 
-- 🔭 I’m currently working on **Culture matters**
 
 - 🌱 I’m currently learning **Forge App development**
 
-- 💬 Ask me about **Forge, Redis, Redis Graph, React, Nodejs,**
+- 💬 Ask me about **Forge, Redis, Redis Graph, React, Nodejs (Experess), Flask**
 
 - 📫 How to reach me **cpnishadtn@gamil.com**
 
