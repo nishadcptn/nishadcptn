@@ -1,29 +1,41 @@
-<h1 align="center">Hi 👋, I'm Nishad cp</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
+<img align="left" width="200" height="200" alt="dhhruv" src="https://user-images.githubusercontent.com/72680045/103229550-485e7900-4959-11eb-95d2-41cdbc444ec0.png" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishadcptn&label=Profile%20views&color=0e75b6&style=flat" alt="nishadcptn" /> </p>
+### Hello World! This is [Nishad CP](https://nishadcptn.github.io/) 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishadcptn" alt="nishadcptn" /></a> </p>
-
-
-- 🌱 I’m currently learning **Forge App development**
-
-- 💬 Ask me about **Forge, Redis, Redis Graph, React, Nodejs (Experess), Flask**
-
-- 📫 How to reach me **cpnishadtn@gamil.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nishad-cp-9164911b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishad-cp-9164911b8" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17732133/nishad-cp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:17732133" height="30" width="40" /></a>
-<a href="https://instagram.com/_lefty_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_lefty_._" height="30" width="40" /></a>
+<p align="left"> 
+	<img src="https://komarev.com/ghpvc/?username=nishadcptn&color=blue" alt="nishadcptn" /> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+Howdy! I'm a talented Full Stack Developer who loves to juggle Django, Angular, and React. With my magic touch, I've conjured up awesome E-commerce websites and management systems that leave users spellbound. I'm a Rest API sorcerer and skilled in the ancient art of JWT token authentication. I'm also a master of API integration, seamlessly connecting different components. But wait, there's more! I've delved into the realm of Redis, harnessing its power for caching and optimizing performance. At Hamon Technologies, I've enchanted websites with Express, Node.js, ReactJs, and React Native, crafting delightful user experiences. Some of my enchanted projects include Tcom Delivery (powered by Angular), Robo Rampage (crafted with ReactJs), Amana (woven with React Native), Loveless Exchange (a magical mix of ReactJs and ExpressJs), and Skylab (powered by the sorcery of Redis and Node.js). So, let's create some software magic together and unlock the secrets of Redis!
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishadcptn&show_icons=true&locale=en&layout=compact" alt="nishadcptn" /></p>
+<br>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishadcptn&show_icons=true&locale=en" alt="nishadcptn" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishadcptn&" alt="nishadcptn" /></p>
+<img align="right" height="240px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+### About Me 🚀
+
+- 🔭 Currently engaging in Competitive Programming activities.
+- 🤓 Seeking collaboration opportunities for Python-based 🐍 projects.
+- 💬 Always willing to offer assistance and guidance on any relevant topics.
+- 📫 Contact me via my [linkedin](https://www.linkedin.com/in/nishad-cp-9164911b8/).
+
+<br>
+
+
+### Connect with me 👋
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/nishad-cp-9164911b8/)
+[<img align="left" alt="codeSTACKr | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/_lefty_._/)
+[<img align="left" alt="codeSTACKr | Gmail" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:cpnishadtn@gmail.com)
+
+<br>
+<br>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=nishadcptn&theme=dark&cache_seconds=1800&show_icons=true&count_private=true" alt="dhhruv" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishadcptn&langs_count=7&show_icons=true&count_private=true&cache_seconds=1800&layout=compact&hide_border=true&theme=dark" alt="dhhruv" width="37%" />
+
+<br>
+<br>
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
