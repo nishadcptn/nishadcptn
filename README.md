@@ -6,7 +6,7 @@
 	<img src="https://komarev.com/ghpvc/?username=nishadcptn&color=blue" alt="nishadcptn" /> 
 </p>
 
-Howdy! I'm a talented Full Stack Developer who loves to juggle Django, Angular, and React. With my magic touch, I've conjured up awesome E-commerce websites and management systems that leave users spellbound. I'm a Rest API sorcerer and skilled in the ancient art of JWT token authentication. I'm also a master of API integration, seamlessly connecting different components. But wait, there's more! I've delved into the realm of Redis, harnessing its power for caching and optimizing performance. At Hamon Technologies, I've enchanted websites with Express, Node.js, ReactJs, and React Native, crafting delightful user experiences. Some of my enchanted projects include Tcom Delivery (powered by Angular), Robo Rampage (crafted with ReactJs), Amana (woven with React Native), Loveless Exchange (a magical mix of ReactJs and ExpressJs), and Skylab (powered by the sorcery of Redis and Node.js). So, let's create some software magic together and unlock the secrets of Redis!
+Howdy! I'm a talented Full Stack Developer who loves to juggle Django, Angular, and React. With my magic touch, I've conjured up awesome E-commerce websites and management systems that leave users spellbound. I'm a Rest API sorcerer and skilled in the ancient art of JWT token authentication. I'm also a master of API integration, seamlessly connecting different components. But wait, there's more! I've delved into the realm of Redis, harnessing its power for caching and optimizing performance. At Hamon Technologies, I've enchanted websites with Express, Node.js, ReactJs, and React Native, crafting delightful user experiences.
 
 <br>
 <br>
