@@ -6,7 +6,7 @@
 	<img src="https://komarev.com/ghpvc/?username=nishadcptn&color=blue" alt="nishadcptn" /> 
 </p>
 
-As a Full Stack Engineer and a Python Developer at Hamon Technologies, I create amazing E-commerce websites and management systems that leave users spellbound. I use Flask, FastAPI and React to craft delightful user interfaces and experiences, and Express, Node.js, and React Native to enchant the backend and mobile platforms. I also leverage the power of Redis for caching and optimizing performance, and the magic of web3.js for blockchain integration.
+As a Full Stack Engineer and a Python Developer, I create amazing E-commerce websites and management systems that leave users spellbound. I use Flask, FastAPI and React to craft delightful user interfaces and experiences, and Express, Node.js, and React Native to enchant the backend and mobile platforms. I also leverage the power of Redis for caching and optimizing performance, and the magic of web3.js for blockchain integration.
 
 I have a Bachelor's degree in Computer Science from the University of Calicut, where I learned the fundamentals of programming, data structures, algorithms, and databases. I am passionate about learning new technologies and frameworks, and I have mastered the art of REST API development and integration, using FastAPI, Flask, Forge, and JWT token authentication. I am always looking for new challenges and opportunities to showcase my skills and contribute to the success of my team and organization.
 
